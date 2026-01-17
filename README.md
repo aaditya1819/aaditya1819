@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Aaditya Dhanwate
 
 ### 👨‍💻 Who am I?
-I am a **B.Tech student at Vishwakarma Institute of Technology (VIT), Pune** with a strong interest in **Full-Stack Web Development, Cloud, and AI-powered applications**.  
+I am a **B.Tech student at Vishwakarma Institute of Technology (VU), Pune** with a strong interest in **Full-Stack Web Development, Cloud, and AI-powered applications**.  
 I enjoy building real-world projects that solve practical problems and improve user experience.
 
 ---
